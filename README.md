@@ -10,6 +10,7 @@ Recording my journey on Git here.
 - git add <file> + git commit OR git commit -a
 - git add . (add files recursively)
 - connected to Git Hub
+- git push (origin main)
 
 ##Pages Created:
 - html main page
