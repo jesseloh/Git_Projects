@@ -8,6 +8,7 @@ Recording my journey on Git here.
 - git config
 - git status
 - git add <file> + git commit OR git commit -a
+- git add . (add files recursively)
 
 ##Pages Created:
 - html main page
