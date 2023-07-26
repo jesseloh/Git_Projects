@@ -13,4 +13,5 @@ Recording my journey on Git here.
 - git push (origin main)
 
 ##Pages Created:
+- README.md
 - html main page
