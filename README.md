@@ -6,3 +6,5 @@ Recording my journey on Git here.
 - start notepad++ <file path>
 - git help
 - git config
+- git status
+- git add <file> + git commit OR git commit -a
