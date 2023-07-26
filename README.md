@@ -11,6 +11,7 @@ Recording my journey on Git here.
 - git add . (add files recursively)
 - connected to Git Hub
 - git push (origin main)
+- git remote set-url origin <url>
 
 ##Pages Created:
 - README.md
