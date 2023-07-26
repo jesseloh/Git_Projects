@@ -1,18 +1,4 @@
-#Welcome to Jesse's Repository
-Recording my journey on Git here.
+#Repository of Java Apps I have Developed while Learning to Code
 
-##Commands executed:
-- git init
-- start notepad++ <file path>
-- git help
-- git config
-- git status
-- git add <file> + git commit OR git commit -a
-- git add . (add files recursively)
-- connected to Git Hub
-- git push (origin main)
-- git remote set-url origin <url>
-
-##Pages Created:
-- README.md
-- html main page
+##Apps:
+Card_Game - work in progress
