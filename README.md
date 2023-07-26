@@ -8,3 +8,6 @@ Recording my journey on Git here.
 - git config
 - git status
 - git add <file> + git commit OR git commit -a
+
+##Pages Created:
+- html main page
