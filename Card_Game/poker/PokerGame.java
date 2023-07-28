@@ -10,6 +10,8 @@ public class PokerGame {
      *Evaluation of score of hand has been automated which can be used to build a computer player.
      *Only evaluates rank for cards with the same face. Future development - evaluate other combinations.
      */
+
+    static Scanner scanner = new Scanner(System.in);
     private final List<Card> deck = Card.getStandardDeck();
     private int playerCount;
     private int cardsInHand;
@@ -39,6 +41,11 @@ public class PokerGame {
         remainingCards = new ArrayList<>(deck.subList(cardsDealt, 52));
         Card.printDeck(remainingCards, "Remaining Cards", 2);
 
+        System.out.print("New Game? (Y/N)");
+        if (scanner.next().equals("Y")) {
+            pokerHands.clear();
+            startPlay();
+        }
     }
 
     private void deal() {
